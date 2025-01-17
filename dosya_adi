@@ -1,0 +1,34 @@
+[
+    {
+        "Barkod": 9786053114772,
+        "Dil": "Türkçe",
+        "Fiyat": 20.4,
+        "Kitap_Adi": "Süt Lekesi",
+        "Yayinevi": "Destek Yayınları",
+        "Yazar": "Esra Ezmeci"
+    },
+    {
+        "Barkod": 978605579064,
+        "Dil": "Türkçe",
+        "Fiyat": 20.4,
+        "Kitap_Adi": "Yanlış Hayat Doğru Yaşanmaz",
+        "Yayinevi": "Olimpos Yayınları",
+        "Yazar": "Ethem Emin Nemutlu"
+    },
+    {
+        "Barkod": 9786051856322,
+        "Dil": "Türkçe",
+        "Fiyat": 27.3,
+        "Kitap_Adi": "Hazan",
+        "Yayinevi": "Everest Yayınları",
+        "Yazar": "Ayşe Kulin"
+    },
+    {
+        "Barkod": 97897507513632,
+        "Dil": "Türkçe",
+        "Fiyat": 24.15,
+        "Kitap_Adi": "Okçu'nun Yolu",
+        "Yayinevi": "Can Yayınları",
+        "Yazar": "Paulo Coelho"
+    }
+]
